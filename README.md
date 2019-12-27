@@ -8,5 +8,4 @@ A sampling of IPython notebooks, which is populated with ML models,
 .
 .
 .
-.
-And many more topics coming up...
+And many more coming up...

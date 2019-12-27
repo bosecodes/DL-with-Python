@@ -11,4 +11,4 @@ And many more coming up...
 
 Coding environment: Jupyter notebook & Google Colab
 
-https://colab.research.google.c
+https://colab.research.google.co

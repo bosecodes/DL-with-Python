@@ -1,4 +1,4 @@
-# ML-with-Python
+# DL-with-Python
 A sampling of IPython notebooks, which is populated with DL models,
 ---> Starting out with TF 1.0
 ---> Neural Nets
